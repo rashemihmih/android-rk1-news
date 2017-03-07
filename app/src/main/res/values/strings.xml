@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android - RK 1 - News</string>
+    <string name="news_not_loaded">Новости не загружены</string>
+    <string name="update">Обновить</string>
+    <string name="topic">Категория</string>
+    <string name="background_update">Обновлять в фоне</string>
+    <string name="no_background_update">Не обновлять в фоне</string>
 </resources>
